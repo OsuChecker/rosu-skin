@@ -1,0 +1,7 @@
+/target
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/rosu-skin-lib.iml
+/.idea/vcs.xml
+/.idea/.gitignore
+/Cargo.lock
